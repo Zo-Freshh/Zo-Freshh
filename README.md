@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Zo-Freshh/Zo-Freshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zo-Freshh/![Screenshot (Aug 8, 2023 2:19:25 AM)](https://github.com/Zo-Freshh/Zo-Freshh/assets/160070313/48387183-61b0-4106-ae38-60382c2004c7)
+Zo-Freshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
